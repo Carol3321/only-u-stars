@@ -1,0 +1,64 @@
+{
+ "photos": [
+  {
+   "id": "photo01",
+   "src": "photo01.jpg",
+   "orig": "orig/photo01.jpg",
+   "w": 3024,
+   "h": 4032,
+   "thumb": "thumb/photo01.webp",
+   "thumbW": 384,
+   "thumbH": 512,
+   "mid": "mid/photo01.webp",
+   "full": "full/photo01.webp"
+  },
+  {
+   "id": "photo02",
+   "src": "photo02.png",
+   "orig": "orig/photo02.png",
+   "w": 3584,
+   "h": 4780,
+   "thumb": "thumb/photo02.webp",
+   "thumbW": 384,
+   "thumbH": 512,
+   "mid": "mid/photo02.webp",
+   "full": "full/photo02.webp"
+  },
+  {
+   "id": "photo03",
+   "src": "photo03.jpg",
+   "orig": "orig/photo03.jpg",
+   "w": 2316,
+   "h": 3088,
+   "thumb": "thumb/photo03.webp",
+   "thumbW": 384,
+   "thumbH": 512,
+   "mid": "mid/photo03.webp",
+   "full": "full/photo03.webp"
+  },
+  {
+   "id": "photo04",
+   "src": "photo04.jpg",
+   "orig": "orig/photo04.jpg",
+   "w": 2316,
+   "h": 3088,
+   "thumb": "thumb/photo04.webp",
+   "thumbW": 384,
+   "thumbH": 512,
+   "mid": "mid/photo04.webp",
+   "full": "full/photo04.webp"
+  },
+  {
+   "id": "photo05",
+   "src": "photo05.jpg",
+   "orig": "orig/photo05.jpg",
+   "w": 1080,
+   "h": 1409,
+   "thumb": "thumb/photo05.webp",
+   "thumbW": 392,
+   "thumbH": 512,
+   "mid": "mid/photo05.webp",
+   "full": "full/photo05.webp"
+  }
+ ]
+}
